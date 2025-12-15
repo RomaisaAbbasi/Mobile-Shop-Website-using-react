@@ -56,6 +56,7 @@ export default function Cart() {
               border: "none",
               padding: "6px 10px",
               marginLeft: "20px",
+              borderRadius: "4px",
               
             }}
           >
