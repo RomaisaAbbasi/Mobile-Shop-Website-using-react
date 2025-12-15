@@ -76,7 +76,7 @@ export default function Cart() {
               background: "pink",
               color: "#fff",
               border: "none",
-              borderRadius: "6px",
+              borderRadius: "5px",
                cursor: "pointer",
              
             }}
