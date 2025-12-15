@@ -51,7 +51,7 @@ export default function Cart() {
           <button
             onClick={() => removeFromCart(item.id)}
             style={{
-              background: "red",
+              background: "green",
               color: "#fff",
               border: "none",
               padding: "6px 10px",
@@ -62,7 +62,7 @@ export default function Cart() {
         </div>
       ))}
 
-      <h2 style={{ textAlign: "right" }}>Total: ${totalPrice}</h2>
+      <h2 style={{ textAlign: "right"}}>Total: ${totalPrice}</h2>
 
       <div style={{ textAlign: "right" }}>
         <Link to="/contact">
