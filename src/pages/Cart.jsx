@@ -77,7 +77,8 @@ export default function Cart() {
               color: "#fff",
               border: "none",
               borderRadius: "6px",
-              cursor: "pointer",
+               cursor: "pointer",
+             
             }}
           >
             Checkout
