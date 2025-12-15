@@ -54,9 +54,9 @@ export default function Cart() {
               background: "green",
               color: "#fff",
               border: "none",
-              padding: "6px 10px",
+              padding: "5px 10px",
               marginLeft: "21px",
-              borderRadius: "4px",
+              borderRadius: "5px",
               cursor: "pointer",
               
             }}
