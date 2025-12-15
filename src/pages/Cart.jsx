@@ -55,6 +55,8 @@ export default function Cart() {
               color: "#fff",
               border: "none",
               padding: "6px 10px",
+              marginLeft: "20px",
+              
             }}
           >
             Remove
