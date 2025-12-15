@@ -73,7 +73,7 @@ export default function Cart() {
           <button
             style={{
               padding: "12px 25px",
-              background: "crimson",
+              background: "pink",
               color: "#fff",
               border: "none",
               borderRadius: "6px",
