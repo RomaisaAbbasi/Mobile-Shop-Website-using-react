@@ -55,7 +55,7 @@ export default function Cart() {
               color: "#fff",
               border: "none",
               padding: "6px 10px",
-              marginLeft: "20px",
+              marginLeft: "21px",
               borderRadius: "4px",
               cursor: "pointer",
               
