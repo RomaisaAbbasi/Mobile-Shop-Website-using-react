@@ -72,7 +72,7 @@ export default function Cart() {
         <Link to="/contact">
           <button
             style={{
-              padding: "12px 25px",
+              padding: "11px 25px",
               background: "pink",
               color: "#fff",
               border: "none",
